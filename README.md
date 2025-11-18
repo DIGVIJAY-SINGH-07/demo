@@ -1,2 +1,2 @@
-This is ny 1st Git Repository
+This is ny 1st Git Repository,
 Author- Digvijay Singh
